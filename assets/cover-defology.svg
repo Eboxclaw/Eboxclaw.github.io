@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" fill="none">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#faf9f5"/><stop offset="1" stop-color="#d8d5cc"/></linearGradient>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0v24" stroke="#77756e" stroke-opacity=".13"/></pattern>
+  </defs>
+  <path fill="url(#paper)" d="M0 0h960v540H0z"/><path fill="url(#grid)" d="M0 0h960v540H0z"/>
+  <text x="54" y="66" fill="#77756e" font-family="monospace" font-size="13" letter-spacing="4">ON CHAIN SPECIES / MARKET ARENA</text>
+  <path d="M155 354 476 170l331 184-331 176z" fill="#eeece5" stroke="#77756e" stroke-opacity=".45" stroke-width="2"/>
+  <path d="m155 354 321 181v-36L155 318z" fill="#d0cdc3"/><path d="m476 535 331-181v-36L476 499z" fill="#c1beb4"/>
+  <path d="m221 356 255-147 263 147-263 147z" stroke="#77756e" stroke-opacity=".32" stroke-dasharray="4 9" stroke-width="2"/>
+  <!-- central pet podium -->
+  <path d="m352 352 125-72 131 73-130 76z" fill="#bcb9af"/><path d="m352 352 126 77v55l-126-76z" fill="#8d8b83"/><path d="m478 429 130-76v55l-130 76z" fill="#6e6d67"/>
+  <path d="m401 345 76-44 80 45-79 46z" fill="#d9d6cc" stroke="#292a28" stroke-width="2"/><path d="m401 345 77 47v34l-77-46z" fill="#77756e"/><path d="m478 392 79-46v34l-79 46z" fill="#4e4f4a"/>
+  <!-- champion voxel pet -->
+  <path d="m430 294 5-61 32 23 13-42 36 43 33-19 4 62-25 45-48 28-48-31z" fill="#292a28"/>
+  <path d="m430 294 5-61 32 23 13 99-48-31z" fill="#55554f"/>
+  <path d="m480 256 36-42 33 24 4 62-25 39-48 16z" fill="#20211f"/>
+  <rect x="449" y="278" width="14" height="11" fill="#f4f2ec"/><rect x="500" y="278" width="14" height="11" fill="#f4f2ec"/><path d="m465 305 16 11 17-11-17 21z" fill="#d8d5cc"/><path d="M480 326v14" stroke="#f4f2ec" stroke-width="4"/>
+  <!-- two smaller trading pets -->
+  <path d="m248 346 5-43 22 16 11-31 25 34 24-13 3 43-18 31-34 20-35-21z" fill="#77756e"/><path d="m248 346 5-43 22 16 11 54-35-21z" fill="#55554f"/><path d="M264 346h9v7h-9zM295 346h9v7h-9z" fill="#f4f2ec"/>
+  <path d="m650 348 3-38 23 16 10-27 25 31 25-15 2 43-18 27-34 19-34-21z" fill="#a6a39a"/><path d="m650 348 3-38 23 16 10 50-36-21z" fill="#77756e"/><path d="M667 347h8v7h-8zM698 347h8v7h-8z" fill="#292a28"/>
+  <!-- trading tokens, linked by an exchange route -->
+  <path d="M302 173l34-20 35 20-35 20z" fill="#f7f6f1" stroke="#292a28" stroke-width="2"/><path d="M302 173v33l34 20v-33z" fill="#d0cdc3" stroke="#292a28" stroke-width="2"/><path d="m336 193 35-20v33l-35 20z" fill="#a5a298" stroke="#292a28" stroke-width="2"/><text x="336" y="184" text-anchor="middle" fill="#292a28" font-family="monospace" font-size="15">+1</text>
+  <path d="m625 175 35-20 36 20-36 20z" fill="#f7f6f1" stroke="#292a28" stroke-width="2"/><path d="M625 175v33l35 20v-33z" fill="#d0cdc3" stroke="#292a28" stroke-width="2"/><path d="m660 195 36-20v33l-36 20z" fill="#a5a298" stroke="#292a28" stroke-width="2"/><text x="660" y="186" text-anchor="middle" fill="#292a28" font-family="monospace" font-size="14">↗</text>
+  <path d="M371 190c54 30 65 68 80 91M625 205c-38 26-57 54-69 78" stroke="#77756e" stroke-width="2" stroke-dasharray="4 8"/>
+  <!-- market signal -->
+  <path d="M742 418v-19h13v19m11 0v-34h13v34m11 0v-50h13v50" stroke="#55554f" stroke-width="5"/>
+  <text x="904" y="489" text-anchor="end" fill="#77756e" font-family="monospace" font-size="12" letter-spacing="2">04 / 04</text>
+</svg>
